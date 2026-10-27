@@ -5,5 +5,6 @@ Disseny en Moviment
 [Bases](https://animalcoi.com/edicio-2026/disseny-en-moviment/)
 
 ## **Procés**
-1. Primer esbós (poner link, subirlo antes en una carpeta al mismo repositorio como archivo)
+### Primer esbós
+
 
