@@ -15,13 +15,13 @@ Disseny en Moviment
    - Cuando haces un click el ojo se invierte y cambia (mira de izquierda a derecha o al revés)
    - Hay un texto oculto bajo los elementos, cuando mantienes pulsado los elementos de esa zona se mueven o cambian a texto.
 #### Tutoriales
-_ _Sobre el puntero_ _
-[Interactividad](https://processing.org/tutorials/interactivity/)
-[Ocultar cursor](https://processing.org/reference/noCursor_.html)
-[Cambiar cursor](https://processing.org/reference/cursor_)
-_ _Interactividad con el puntero_ _
-[Vectores](https://natureofcode.com/vectors/)
-[Fuerzas](https://natureofcode.com/forces/)
-[Agentes autónomos](https://natureofcode.com/autonomous-agents/)
-_ _Sobre el texto_ _
-[Tipografía](https://processing.org/tutorials/typography/)
+_Sobre el puntero_
+- [Interactividad](https://processing.org/tutorials/interactivity/)
+- [Ocultar cursor](https://processing.org/reference/noCursor_.html)
+- [Cambiar cursor](https://processing.org/reference/cursor_)
+_Interactividad con el puntero_
+- [Vectores](https://natureofcode.com/vectors/)
+- [Fuerzas](https://natureofcode.com/forces/)
+- [Agentes autónomos](https://natureofcode.com/autonomous-agents/)
+_Sobre el texto_
+- [Tipografía](https://processing.org/tutorials/typography/)
