@@ -7,7 +7,7 @@ Disseny en Moviment
 ## Procés
 ### PRIMERA VIA
 #### Esbós
-!(./img_boceto.jpeg)
+![Esbós](./img_boceto.jpeg)
 #### Concepte
 1. Animació de l'ull
    
