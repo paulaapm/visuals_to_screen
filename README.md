@@ -27,3 +27,7 @@ _Interactividad con el puntero_
   
 _Sobre el texto_
 - [Tipografía](https://processing.org/tutorials/typography/)
+#### Referentes
+[Reddit /creativecoding](https://www.reddit.com/r/creativecoding/)
+
+#### Páginas
