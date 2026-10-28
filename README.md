@@ -15,7 +15,7 @@ Disseny en Moviment
    - Cuando haces un click el ojo se invierte y cambia (mira de izquierda a derecha o al revés)
    - Hay un texto oculto bajo los elementos, cuando mantienes pulsado los elementos de esa zona se mueven o cambian a texto.
 #### Tutoriales
-_ Sobre el puntero _
+_ _Sobre el puntero_ _
 [Interactividad](https://processing.org/tutorials/interactivity/)
 [Ocultar cursor](https://processing.org/reference/noCursor_.html)
 [Cambiar cursor](https://processing.org/reference/cursor_)
