@@ -13,7 +13,7 @@ Disseny en Moviment
    - El puntero se convierte en un ojo
    - El lienzo tiene elementos y el ojo se mueve entre ellos (se dispersan a su alrededor)
    - Cuando haces un click el ojo se invierte y cambia (mira de izquierda a derecha o al revés)
-   - Hay un texto oculto bajo los elementos, cuando mantienes pulsado los elementos de esa zona se mueven o cambian a texto.
+   - Hay un texto oculto bajo los elementos, cuando mantienes pulsado los elementos de esa zona se mueven o cambian a texto
 #### Tutoriales
 _Sobre el puntero_
 - [Interactividad](https://processing.org/tutorials/interactivity/)
