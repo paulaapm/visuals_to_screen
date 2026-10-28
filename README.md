@@ -28,6 +28,8 @@ _Interactividad con el puntero_
 _Sobre el texto_
 - [Tipografía](https://processing.org/tutorials/typography/)
 #### Referentes
-[Reddit /creativecoding](https://www.reddit.com/r/creativecoding/)
+[Programming Posters de Tim Rodenbröker](https://trcc.timrodenbroeker.de/programming-posters/)  
 
 #### Páginas
+[Reddit /creativecoding](https://www.reddit.com/r/creativecoding/)  
+[Processing para principiantes](https://discourse.processing.org/t/introducing-a-new-free-and-beginner-friendly-introductory-course-on-processing/42876)
