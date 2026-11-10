@@ -34,3 +34,7 @@ _Sobre el texto_
 [Reddit /creativecoding](https://www.reddit.com/r/creativecoding/)  
 [Processing para principiantes](https://discourse.processing.org/t/introducing-a-new-free-and-beginner-friendly-introductory-course-on-processing/42876)  
 [Github sobre creative coding](https://github.com/terkelg/awesome-creative-coding#subreddits)
+
+### SEGUNDA VÍA
+#### Boceto
+
