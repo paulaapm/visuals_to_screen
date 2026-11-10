@@ -9,7 +9,7 @@ Disseny en Moviment
 #### Boceto
 ![Boceto](./img_boceto.jpeg)
 #### Concepto
-1. Animación del ojo
+Animación del ojo
    - El puntero se convierte en un ojo
    - El lienzo tiene elementos y el ojo se mueve entre ellos (se dispersan a su alrededor)
    - Cuando haces un click el ojo se invierte y cambia (mira de izquierda a derecha o al revés)
@@ -37,4 +37,12 @@ _Sobre el texto_
 
 ### SEGUNDA VÍA
 #### Boceto
-
+![Boceto](./img_boceto_2.jpeg)
+#### Concepto
+Generación de cuadrados
+   - Primero aparecen unos pocos cuadrados
+   - De esos cuadrados comienzan a surgir ramificaciones de diferentes tamaños y colores
+   - Van creciendo las ramificaciones hasta terminar llenando la pantalla y generando como un efecto de "glitch" cuando se llena la pantalla
+#### Tutoriales
+_Generación_
+- [El Juego de la Vida](https://processing.org/examples/gameoflife.html)
