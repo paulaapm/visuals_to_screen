@@ -43,7 +43,6 @@ Generación de cuadrados
    - Primero aparecen unos pocos cuadrados
    - De esos cuadrados comienzan a surgir ramificaciones de diferentes tamaños y colores
    - Van creciendo las ramificaciones hasta terminar llenando la pantalla y generando como un efecto de "glitch" cuando se llena la pantalla
-
 #### Tutoriales
 _Generación_
 - [El Juego de la Vida](https://processing.org/examples/gameoflife.html) 
