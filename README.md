@@ -1,48 +1,73 @@
+
 # visuals_to_screen
+
 Disseny en Moviment
 
 ## Disseny en moviment
+
 [Bases](https://animalcoi.com/edicio-2026/disseny-en-moviment/)
 
 ## Proceso
+
 ### PRIMERA VÍA
+
 #### Boceto
+
 ![Boceto](./img_boceto.jpeg)
+
 #### Concepto
-Animación del ojo
-   - El puntero se convierte en un ojo
-   - El lienzo tiene elementos y el ojo se mueve entre ellos (se dispersan a su alrededor)
-   - Cuando haces un click el ojo se invierte y cambia (mira de izquierda a derecha o al revés)
-   - Hay un texto oculto bajo los elementos, cuando mantienes pulsado los elementos de esa zona se mueven o cambian a texto
+
+**Animación del ojo**
+
+- El puntero se convierte en un ojo.
+- El lienzo tiene elementos y el ojo se mueve entre ellos (se dispersan a su alrededor).
+- Cuando haces un clic, el ojo se invierte y cambia (mira de izquierda a derecha o al revés).
+- Hay un texto oculto bajo los elementos. Cuando mantienes pulsado, los elementos de esa zona se mueven o cambian a texto.
+
 #### Tutoriales
-_Sobre el puntero_
+
+*Sobre el puntero*
+
 - [Interactividad](https://processing.org/tutorials/interactivity/)
 - [Ocultar cursor](https://processing.org/reference/noCursor_.html)
-- [Cambiar cursor](https://processing.org/reference/cursor_)  
+- [Cambiar cursor](https://processing.org/reference/cursor_.html)
 
-_Interactividad con el puntero_
+*Interactividad con el puntero*
+
 - [Vectores](https://natureofcode.com/vectors/)
 - [Fuerzas](https://natureofcode.com/forces/)
 - [Agentes autónomos](https://natureofcode.com/autonomous-agents/)
-  
-_Sobre el texto_
+
+*Sobre el texto*
+
 - [Tipografía](https://processing.org/tutorials/typography/)
+
 #### Referentes
-[Programming Posters de Tim Rodenbröker](https://trcc.timrodenbroeker.de/programming-posters/)  
+
+[Programming Posters de Tim Rodenbröker](https://trcc.timrodenbröker.de/programming-posters/)
 
 #### Páginas
-[Reddit /creativecoding](https://www.reddit.com/r/creativecoding/)  
-[Processing para principiantes](https://discourse.processing.org/t/introducing-a-new-free-and-beginner-friendly-introductory-course-on-processing/42876)  
-[Github sobre creative coding](https://github.com/terkelg/awesome-creative-coding#subreddits)
+
+- [Reddit /creativecoding](https://www.reddit.com/r/creativecoding/)
+- [Processing para principiantes](https://discourse.processing.org/t/introducing-a-new-free-and-beginner-friendly-introductory-course-on-processing/42876)
+- [Github sobre creative coding](https://github.com/terkelg/awesome-creative-coding#subreddits)
 
 ### SEGUNDA VÍA
+
 #### Boceto
+
 ![Boceto](./img_boceto_2.jpeg)
+
 #### Concepto
-Generación de cuadrados
-   - Primero aparecen unos pocos cuadrados
-   - De esos cuadrados comienzan a surgir ramificaciones de diferentes tamaños y colores
-   - Van creciendo las ramificaciones hasta terminar llenando la pantalla y generando como un efecto de "glitch" cuando se llena la pantalla
+
+**Generación de cuadrados**
+
+- Primero aparecen unos pocos cuadrados.
+- De esos cuadrados comienzan a surgir ramificaciones de diferentes tamaños y colores.
+- Van creciendo las ramificaciones hasta terminar llenando la pantalla y generando como un efecto de "glitch" cuando se llena la pantalla.
+
 #### Tutoriales
-_Generación_
-- [El Juego de la Vida](https://processing.org/examples/gameoflife.html) 
+
+*Generación*
+
+- [El Juego de la Vida](https://processing.org/examples/gameoflife.html)
