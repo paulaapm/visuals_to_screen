@@ -1,4 +1,3 @@
-
 # visuals_to_screen
 
 Disseny en Moviment
@@ -17,7 +16,7 @@ Disseny en Moviment
 
 #### Concepto
 
-**Animación del ojo**
+Animación del ojo
 
 - El puntero se convierte en un ojo.
 - El lienzo tiene elementos y el ojo se mueve entre ellos (se dispersan a su alrededor).
@@ -60,11 +59,17 @@ Disseny en Moviment
 
 #### Concepto
 
-**Generación de cuadrados**
+Generación de cuadrados
 
 - Primero aparecen unos pocos cuadrados.
 - De esos cuadrados comienzan a surgir ramificaciones de diferentes tamaños y colores.
 - Van creciendo las ramificaciones hasta terminar llenando la pantalla y generando como un efecto de "glitch" cuando se llena la pantalla.
+
+#### Tutoriales
+
+*Generación*
+
+- [El Juego de la Vida](https://processing.org/examples/gameoflife.html)
 
 #### Tutoriales
 
