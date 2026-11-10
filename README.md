@@ -70,9 +70,3 @@ Generación de cuadrados
 *Generación*
 
 - [El Juego de la Vida](https://processing.org/examples/gameoflife.html)
-
-#### Tutoriales
-
-*Generación*
-
-- [El Juego de la Vida](https://processing.org/examples/gameoflife.html)
